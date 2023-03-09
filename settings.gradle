@@ -1,0 +1,3 @@
+
+rootProject.name = "Guardar Foto En Almacenamiento Interno"
+include ':app'
